@@ -1,4 +1,32 @@
-Tools/Tech: Python, Pandas, Scikit-learn, Regression Algorithms
-Overview:
-Built and evaluated a robust house price prediction model, demonstrating strong skills in data preprocessing, model selection, and performance optimization. Applied advanced techniques such as feature engineering, missing value imputation, and outlier handling to prepare the dataset. Implemented and fine-tuned regression algorithms to predict housing prices accurately on real-world datasets.
-Model Performance: Achieved an R² Score of 91%, indicating high model reliability.
+
+🏠 House Price Prediction
+📌 Overview
+Built and evaluated a robust machine learning model to predict house prices using real-world datasets. Applied regression techniques and preprocessing for clean and accurate results.
+
+🧰 Tools & Technologies
+Python, Pandas
+
+Scikit-learn
+
+Regression Models (Linear, Random Forest, etc.)
+
+Matplotlib, Seaborn
+
+🚀 Features
+Data preprocessing (missing values, outlier handling)
+
+Feature engineering and selection
+
+Regression model training and comparison
+
+Evaluation using R² Score
+
+📊 Performance
+Achieved 91% R² Score, indicating strong predictive capability.
+
+📁 Folder Structure
+Copy
+Edit
+📦 house-price-prediction  
+ ┣ 📜 housepred.ipynb  
+ ┗ 📄 README.md
